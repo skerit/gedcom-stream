@@ -1,0 +1,24 @@
+{
+	"name": "gedstream",
+	"version": "0.1.0",
+	"description": "Parse a GEDCOM file",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/skerit/gedstream.git"
+	},
+	"keywords": [
+		"gedcom",
+		"genealogy"
+	],
+	"dependencies": {},
+	"author": "Jelle De Loecker <jelle@develry.be>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/skerit/gedstream/issues"
+	},
+	"homepage": "https://github.com/skerit/gedstream"
+}
